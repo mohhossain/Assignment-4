@@ -13,3 +13,21 @@ html{
     font-family:'Roboto', sans-serif;
     color:white;
 }
+
+p {
+    font-family: 'Robot', sans-serif;
+}
+
+button {
+    font-size: large;
+}
+
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+form{
+    font-size: larger;
+}
