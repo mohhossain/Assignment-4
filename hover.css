@@ -1,0 +1,15 @@
+html{
+    text-align:center;
+}
+#main{
+    height: 50vh;
+    margin: 300px 600px 0px 600px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+#main-text{
+    padding-top:200px;
+    font-family:'Roboto', sans-serif;
+    color:white;
+}
