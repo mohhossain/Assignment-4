@@ -4,14 +4,21 @@ html{
 #main{
     height: 50vh;
     margin: 300px 600px 0px 600px;
-    background-color: grey;
+    background-color:rgb(172, 172, 172);
     border-radius: 10px;
+    font-size:larger;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #main-text{
     padding-top:200px;
     font-family:'Roboto', sans-serif;
     color:white;
+}
+
+#volume{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
 }
 
 p {
@@ -31,3 +38,4 @@ h6{
 form{
     font-size: larger;
 }
+
